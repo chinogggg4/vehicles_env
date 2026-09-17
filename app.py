@@ -1,10 +1,8 @@
 # Import libraries
 import pandas as pd
-import seaborn as sns
 import plotly.graph_objects as go
 import plotly.express as px
 import streamlit as st
-import os
 from pathlib import Path  # library to handle file paths
 
 # Load the dataset
